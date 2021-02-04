@@ -10,4 +10,10 @@ will what else......
 
 add one line in dev
 
+<<<<<<< HEAD
 will add in master
+=======
+add othedawsfedaf
+>>>>>>> feature
+
+jasdfljsdflj"
